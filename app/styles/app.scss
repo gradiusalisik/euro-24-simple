@@ -1,0 +1,15 @@
+// import('sprites/*')
+// import('helpers/svg-size')
+@import 'helpers/variables';
+@import 'helpers/fonts';
+@import 'helpers/optimize';
+@import 'helpers/mixins';
+@import 'helpers/html';
+
+@import 'plugins/**/*.scss';
+
+@import '../blocks/**/*.scss';
+@import '../sections/**/*.scss';
+
+
+@import '../../node_modules/flatpickr/dist/flatpickr.min.css'

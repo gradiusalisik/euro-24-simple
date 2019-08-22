@@ -1,0 +1,12 @@
+mixin advantage(data)
+	- data = data || {}
+
+	+b.advantage(
+		class=data.thtme ? '_theme_#{data.theme}' : ''
+	)&attributes(attributes)
+		+icon(data.icon).icon
+		+e.content
+			if data.title
+				+e.title=data.title
+			if data.description
+				+e.description=data.description

@@ -1,0 +1,19 @@
+{
+    "socialIcons": [
+        {
+            "id": "1",
+            "href": "#",
+            "icon": "facebook"
+        },
+        {
+            "id": "2",
+            "href": "#",
+            "icon": "twitter"
+        },
+        {
+            "id": "3",
+            "href": "#",
+            "icon": "instagram"
+        }
+    ]
+}

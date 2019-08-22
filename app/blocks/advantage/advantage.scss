@@ -1,0 +1,31 @@
+.advantage {
+	display: flex;
+	width: 250px;
+
+	&_theme_white & {
+		&__title,
+		&__description {
+			color: $c-white;
+		}
+	}
+
+	&__icon {
+		margin-right: 16px;
+		flex: 0 0 auto;
+		width: 32px;
+		height: 32px;
+	}
+
+	&__title {
+		font-size: 14px;
+		font-weight: bold;
+		color: $c-main;
+	}
+
+	&__description {
+		margin-top: 8px;
+		font-size: 14px;
+		line-height: 1.43;
+		color: $c-main;
+	}
+}

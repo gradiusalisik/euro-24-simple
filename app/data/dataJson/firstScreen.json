@@ -1,0 +1,33 @@
+{
+  "firstScreen": {
+    "title": "Откройте&nbsp;<strong>европейское</strong> качество&nbsp;окон и&nbsp;балконов",
+    "description": "Мы быстро и качественно установим любые металлопластиковые окна.",
+    "image": "assets/img/firstScreen/illustration-greeting.svg",
+    "brands": [
+      {
+        "id": "logo-veka",
+        "brand": "assets/img/brands/logo-veka.svg"
+      },
+      {
+        "id": "logo-salamander",
+        "brand": "assets/img/brands/logo-salamander.svg"
+      },
+      {
+        "id": "logo-schuco",
+        "brand": "assets/img/brands/logo-schuco.svg"
+      },
+      {
+        "id": "logo-kbe",
+        "brand": "assets/img/brands/logo-kbe.svg"
+      },
+      {
+        "id": "logo-trocal",
+        "brand": "assets/img/brands/logo-trocal.svg"
+      },
+      {
+        "id": "logo-rehau",
+        "brand": "assets/img/brands/logo-rehau.svg"
+      }
+    ]
+  }
+}
